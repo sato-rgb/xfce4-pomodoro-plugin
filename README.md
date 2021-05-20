@@ -1,5 +1,3 @@
-[![License](https://img.shields.io/badge/License-GPL%20v2-blue.svg)](https://gitlab.xfce.org/panel-plugins/xfce4-sample-plugin/-/blob/master/COPYING)
-
 # xfce4-pomodoro-plugin
 
 Xfce4-pomodoro-plugin is a pomodoro timer for the Xfce panel.
@@ -34,3 +32,6 @@ if the plugin does not appear in plugin menu, try prefix=/usr:
 
 use GitHub's feature (I do not know) or mail to my mail address.
 
+### Disclaimer
+I DO NOT KNOW about GPL/Git/Xfce contribute guidelines.
+so send delete request if there is any violation or something.
